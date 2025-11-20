@@ -1,0 +1,162 @@
+{
+  "title": {
+    "text": {
+      "headline": "Development of the Toyota Production System (TPS)",
+      "text": "Key milestones in the evolution of TPS, from jidoka and just-in-time roots to global diffusion and formalization."
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1902" },
+      "text": {
+        "headline": "1902 – Jidoka concept is born",
+        "text": "Sakichi Toyoda patents a loom that stops automatically when a thread breaks, establishing the jidoka principle of building quality into the process."
+      },
+      "group": "Foundations"
+    },
+    {
+      "start_date": { "year": "1926" },
+      "text": {
+        "headline": "1926 – Toyota Industries founded",
+        "text": "Toyota Industries Corporation is founded to manufacture and sell automatic looms, providing the industrial base that later funds automotive production and TPS."
+      },
+      "group": "Foundations"
+    },
+    {
+      "start_date": { "year": "1933" },
+      "text": {
+        "headline": "1933 – Automotive department established",
+        "text": "An automobile department is created within Toyoda Automatic Loom Works, marking the start of Toyota’s automotive manufacturing activities."
+      },
+      "group": "Foundations"
+    },
+    {
+      "start_date": { "year": "1937" },
+      "text": {
+        "headline": "1937–1938 – Toyota Motor & early Just-in-Time",
+        "text": "Toyota Motor Corporation is established (1937). At the Koromo/Honsha plant, Kiichiro Toyoda introduces a just-in-time production concept (1938), a direct precursor of TPS’s JIT pillar."
+      },
+      "group": "Foundations"
+    },
+    {
+      "start_date": { "year": "1943" },
+      "text": {
+        "headline": "1943 – Taiichi Ohno joins Toyota Motor",
+        "text": "Taiichi Ohno transfers from Toyoda Automatic Loom to Toyota Motor Corporation. He will later drive the creation and refinement of TPS."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1947" },
+      "text": {
+        "headline": "1947–1949 – Machine shop experiments",
+        "text": "As machine shop manager, Ohno rearranges machines into product flow, introduces multi-process handling, reduces work-in-process, and empowers workers to stop the line, prototyping future TPS practices."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1950" },
+      "text": {
+        "headline": "1950 – Financial crisis and labor dispute",
+        "text": "A severe financial crisis and labor dispute at Toyota force management to pursue dramatic productivity and quality improvements, accelerating TPS development."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1952" },
+      "text": {
+        "headline": "Early 1950s – TPS building blocks refined",
+        "text": "In the early 1950s, Ohno and colleagues refine visual control, suggestion systems, small lot production, quick changeovers, production leveling, and kanban ideas that become core TPS mechanisms."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1956" },
+      "text": {
+        "headline": "1956 – Shigeo Shingo begins P-Course at Toyota",
+        "text": "Industrial engineer Shigeo Shingo starts regular training at Toyota, shaping SMED (single-minute exchange of die) and poka-yoke, which support TPS’s focus on flow and defect prevention."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1957" },
+      "text": {
+        "headline": "1957 – Basic Andon system introduced",
+        "text": "Toyota introduces a basic andon system using lights to signal problems at the line, making jidoka visible and enabling rapid response to abnormalities."
+      },
+      "group": "Creation of TPS"
+    },
+    {
+      "start_date": { "year": "1962" },
+      "text": {
+        "headline": "1962 – Company-wide pull & kanban completed",
+        "text": "Toyota completes a company-wide internal pull system and kanban implementation, and begins using kanban with major suppliers, making TPS an integrated production system."
+      },
+      "group": "System-wide consolidation"
+    },
+    {
+      "start_date": { "year": "1965" },
+      "text": {
+        "headline": "1965 – Deming Prize for Quality",
+        "text": "Toyota receives the Deming Prize, recognizing its quality management system, which is tightly linked to TPS practices and philosophy."
+      },
+      "group": "System-wide consolidation"
+    },
+    {
+      "start_date": { "year": "1969" },
+      "text": {
+        "headline": "1969 – Operations Management Consulting Division",
+        "text": "Toyota establishes an internal Operations Management Consulting Division to spread TPS thinking and practices within Toyota and its affiliates."
+      },
+      "group": "System-wide consolidation"
+    },
+    {
+      "start_date": { "year": "1973" },
+      "text": {
+        "headline": "1973 – Oil shock validates TPS",
+        "text": "During the global oil crisis, Toyota remains profitable while many automakers struggle, drawing international attention to TPS as a robust, efficient production system."
+      },
+      "group": "System-wide consolidation"
+    },
+    {
+      "start_date": { "year": "1975" },
+      "text": {
+        "headline": "1975 – First English TPS handbook drafted",
+        "text": "An internal TPS handbook by Sugimori, Cho, Ohno and others is drafted in English, documenting the system more systematically and preparing it for wider dissemination."
+      },
+      "group": "System-wide consolidation"
+    },
+    {
+      "start_date": { "year": "1984" },
+      "text": {
+        "headline": "1984 – NUMMI joint venture in the U.S.",
+        "text": "The NUMMI joint venture between Toyota and General Motors in California becomes a high-profile demonstration of TPS in an American context, influencing global interest in lean manufacturing."
+      },
+      "group": "Global spread"
+    },
+    {
+      "start_date": { "year": "1988" },
+      "text": {
+        "headline": "1988 – Ohno’s TPS book in English",
+        "text": "Taiichi Ohno’s book “Toyota Production System: Beyond Large-Scale Production” is published in English, offering a primary explanation of TPS to practitioners worldwide."
+      },
+      "group": "Global spread"
+    },
+    {
+      "start_date": { "year": "1992" },
+      "text": {
+        "headline": "1992 / 1998 – Official TPS booklet issued",
+        "text": "Toyota publishes its first official booklet describing TPS in 1992, later revised in 1998. The booklet defines TPS as a framework for conserving resources by eliminating waste."
+      },
+      "group": "Formalization"
+    },
+    {
+      "start_date": { "year": "2001" },
+      "text": {
+        "headline": "2001 – “The Toyota Way 2001”",
+        "text": "Toyota issues “The Toyota Way 2001,” formally codifying the principles of continuous improvement and respect for people that underpin TPS and guide management behaviors."
+      },
+      "group": "Formalization"
+    }
+  ]
+}
